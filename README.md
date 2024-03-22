@@ -1,2 +1,5 @@
 # PRBS_Generator_and_Checker_on_FPGA
-A mini project delivered during my internship at Intel (PSG)
+
+Tool : Intel Quartus Prime Pro Edition 
+
+FPGA Device : Stratix 10 (1SG280HU1F50E2LG)
